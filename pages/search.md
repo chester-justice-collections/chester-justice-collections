@@ -7,3 +7,8 @@ permalink: /search/
 ---
 
 ## Full metadata search:
+
+## Google Search
+<script async src="https://cse.google.com/cse.js?cx=b5291d2776df54183">
+</script>
+<div class="gcse-search"></div>
