@@ -54,6 +54,16 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9JVzoiey4KU1LZdq
 # set noindex to true if you do NOT want Google to index your site
 noindex: true 
 
+browse-child-objects: true
+data-child-objects: true
+carousel-child-objects: true
+browse-child-objects: true
+browse-child-objects: true
+
+
+
+
+
 ##########
 # BUILD SETTINGS 
 #
