@@ -52,7 +52,7 @@ metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9JVzoiey4KU1LZdq
 # ROBOTS EXCLUDE
 #
 # set noindex to true if you do NOT want Google to index your site
-noindex: true 
+noindex: false 
 
 browse-child-objects: true
 data-child-objects: true
