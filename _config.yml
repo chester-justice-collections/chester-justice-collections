@@ -59,7 +59,7 @@ data-child-objects: true
 carousel-child-objects: true
 browse-child-objects: true
 browse-child-objects: true
-
+paginate: 1000
 
 
 
