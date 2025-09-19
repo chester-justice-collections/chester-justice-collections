@@ -38,10 +38,10 @@ author: Chester Justice Collections
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vSn7AA-cbsXT3_nNUGftc1ab-CKXOJHMQCIENeR9NHElbyI9_qA99o0-HNZdG04v-M2_N21bUe_krQQ/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
 #Old
-#metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9JVzoiey4KU1LZdq3predLu0Wg_cEgYtuSrRmeZUulLgxq5SFNUwtwyHDLpMrUdS74M6KtFxGWwDz/pub?output=csv
+metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vQ9JVzoiey4KU1LZdq3predLu0Wg_cEgYtuSrRmeZUulLgxq5SFNUwtwyHDLpMrUdS74M6KtFxGWwDz/pub?output=csv
 
 #New in a "forever" folder at swarthmore
-metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vSgaobAG9qTSXh_r4-BDbZqcemy12tqXE79vczd4dd6RPuBd8R2Vp667O0PyK0aIw/pub?output=csv
+#metadata-csv: https://docs.google.com/spreadsheets/d/e/2PACX-1vSgaobAG9qTSXh_r4-BDbZqcemy12tqXE79vczd4dd6RPuBd8R2Vp667O0PyK0aIw/pub?output=csv
 ##########
 # Site/Organization Branding 
 # 
@@ -75,7 +75,7 @@ paginate: 1000
 # (this is done automatically by gh-pages build)
 #
 # dev mode turns on ability to change metadata
-development-mode: false
+development-mode: true
 # ignore stuff
 exclude: [docs/, Rakefile, README.md, LICENSE]
 # compress CSS output
